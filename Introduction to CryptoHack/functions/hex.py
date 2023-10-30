@@ -1,6 +1,13 @@
-question_numbers = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 110, 116, 52, 98, 108, 51, 125]
+import base64
 
-characters = [chr(num) for num in question_numbers]
-result = ''.join(characters)
+# QUESTION HEX STRING 
+string = '72bca9b68fc16ac7beeb8f849dca1d8a783e8acf9679bf9269f7bf'
+# DECODE FROM HEX TO BYTES
+htoby = bytes.fromhex(string)
+# DECODE FROM BYTES TO BASE64
+bytob64 = base64.b64encode(htoby)
 
-print(result)
+# DECODE FROM B64 TO STRINGS & PRINT
+solution = base64.b64decode(bytob64)
+print(bytob64)
+list
