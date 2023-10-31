@@ -28,3 +28,10 @@ https://github.com/RenzPy/cryptohackwalktrough/blob/2d4645620e73c587db96e754f051
 ![image](https://github.com/RenzPy/cryptohackwalktrough/assets/128860095/91afcaf5-1bb7-4c69-992d-5886bcade9ca)
 
 https://github.com/RenzPy/cryptohackwalktrough/blob/2d4645620e73c587db96e754f0513ae5d08ee219/Introduction%20to%20CryptoHack/functions/hex.py#L1-L13
+
+
+**Level 5 - Bytes and Big Integers**
+
+![image](https://github.com/RenzPy/cryptohackwalktrough/assets/128860095/56b016e7-df99-484a-b1fb-e6e56a1cc211)
+
+https://github.com/RenzPy/cryptohackwalktrough/blob/6e3801a18740e54fdb2dec3d4a53c64086d61147/Introduction%20to%20CryptoHack/functions/Bytes%20and%20Big%20Integers.py#L1-L7
