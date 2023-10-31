@@ -35,3 +35,9 @@ https://github.com/RenzPy/cryptohackwalktrough/blob/2d4645620e73c587db96e754f051
 ![image](https://github.com/RenzPy/cryptohackwalktrough/assets/128860095/56b016e7-df99-484a-b1fb-e6e56a1cc211)
 
 https://github.com/RenzPy/cryptohackwalktrough/blob/6e3801a18740e54fdb2dec3d4a53c64086d61147/Introduction%20to%20CryptoHack/functions/Bytes%20and%20Big%20Integers.py#L1-L7
+
+**Level 6 - XOR Starter**
+
+![image](https://github.com/RenzPy/cryptohackwalktrough/assets/128860095/96b2df28-82b7-4d19-b98e-28b65a7a94e3)
+
+https://github.com/RenzPy/cryptohackwalktrough/blob/63fc65ad84c52d5cdb49f7ad53d8d4e344b60a40/Introduction%20to%20CryptoHack/functions/XOR%20Starter.py#L1-L12
